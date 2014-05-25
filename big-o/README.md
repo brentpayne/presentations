@@ -21,5 +21,5 @@ It can be viewed [here](http://nbviewer.ipython.org/github/brentpayne/presentati
 Helpful Links
 =============
 
-[http://en.wikipedia.org/wiki/Big_O_notation](http://en.wikipedia.org/wiki/Big_O_notation)
-[http://bigocheatsheet.com/]
+* [http://en.wikipedia.org/wiki/Big_O_notation](http://en.wikipedia.org/wiki/Big_O_notation)
+* [http://bigocheatsheet.com/](http://bigocheatsheet.com/ "Big-O notations sometimes where $\Omega$ should have been used")
