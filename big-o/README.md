@@ -17,3 +17,9 @@ IPython Notebook Viewer
 =======================
 
 It can be viewed [here](http://nbviewer.ipython.org/github/brentpayne/presentations/blob/master/big-o/Big-O.ipynb "IPython Notebook Viewer Big-O presentation")
+
+Helpful Links
+=============
+
+[http://en.wikipedia.org/wiki/Big_O_notation](http://en.wikipedia.org/wiki/Big_O_notation)
+[http://bigocheatsheet.com/]
